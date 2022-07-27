@@ -1,3 +1,7 @@
 This is a change
 This is another change
+<<<<<<< HEAD
 change updat 
+=======
+change on the dev branch
+>>>>>>> dev
